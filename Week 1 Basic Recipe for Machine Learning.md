@@ -13,7 +13,7 @@ high variance: overfitting
 ## Solution for high variance:
 1. More data --> can only reduce variance without increasing bias
 
-2. Regularization
+2. Regularization --> can prenvent overfitting
 
 3*. Change a NN archetechture
 
